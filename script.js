@@ -1,5 +1,5 @@
 var map=L.map("map", {center:[-34.83648874965474, -58.097171123565104], zoom:12});
-L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.ar/cyclosm/{z}/{x}/{y}.png', {
+L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
 	maxZoom: 20,
 	attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
@@ -15,6 +15,7 @@ function addGeoJSON(geojson){
 
 
 $.getJSON("markers.geojson",addGeoJSON)
+
 
 
 
