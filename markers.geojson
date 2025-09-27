@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "markers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "toponyme": "Entry", "coords": [ -58.180176776476486, -34.843761339778574 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.180176776476486, -34.843761339778574 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Las Palmeras", "coords": [ -58.144198231724225, -34.84996559501578 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.144198231724225, -34.849965595015782 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Cappella Santa Elena", "coords": [ -58.13335541803441, -34.849224399507406 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.133355418034412, -34.849224399507406 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Arbol de Cristal", "coords": [ -58.118301775385135, -34.83142153974846 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.118301775385135, -34.831421539748462 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Puente de Hierro", "coords": [ -58.15461614608759, -34.881875838296665 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.154616146087591, -34.881875838296665 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Escuela de Policia Juan Vucetich", "coords": [ -58.12946969027234, -34.84393917257544 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.129469690272337, -34.843939172575439 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Ermita de la Virgen Abandonada", "coords": [ -58.1135625031416, -34.83158176658518 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.113562503141601, -34.831581766585181 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Punte caido", "coords": [ -58.114301772067535, -34.831402219030466 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.114301772067535, -34.831402219030466 ] } },
+{ "type": "Feature", "properties": { "toponyme": "C.I.F.I.M", "coords": [ -58.09956250039964, -34.83204483262498 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.099562500399642, -34.83204483262498 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Área Natural Protegida “Bosques Nativos de Hudson”", "coords": [ -58.10043750204125, -34.76436693552871 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.100437502041252, -34.764366935528713 ] } },
+{ "type": "Feature", "properties": { "toponyme": "ECAS Estación de Cría de Animales Silvestres", "coords": [ -58.07038220123114, -34.858260426973146 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.070382201231141, -34.858260426973146 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Parrilla Tu Palenque", "coords": [ -58.14869822952828, -34.84741103122341 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.148698229528279, -34.847411031223409 ] } },
+{ "type": "Feature", "properties": { "toponyme": "República de los Niños", "coords": [ -58.02029467346313, -34.889027641409456 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -58.020294673463127, -34.889027641409456 ] } },
+{ "type": "Feature", "properties": { "toponyme": "Palacio Piria", "coords": [ -57.952997701211345, -34.832917513443824 ], "description": null }, "geometry": { "type": "Point", "coordinates": [ -57.952997701211345, -34.832917513443824 ] } }
+]
+}
